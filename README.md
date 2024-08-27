@@ -11,28 +11,28 @@
 
 <!-- Contact and Social Media Links -->
 <p align="center">
-  <a href="mailto:nishatrhythm@gmail.com">
+  <a href="mailto:Oso00Luffy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Drop%20Me%20a%20Message-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://nishat.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-brightgreen?style=for-the-badge" alt="Website">
   </a>
-  <a href="https://twitter.com/NishatRhythm" target="_blank">
+  <a href="https://twitter.com/Oso00Luffy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="https://www.facebook.com/NishatRhythm" target="_blank">
+  <a href="https://www.facebook.com/Oso00Luffy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/NishatRhythm" target="_blank">
+  <a href="https://www.instagram.com/Oso00Luffy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/NishatRhythm" target="_blank">
+  <a href="https://www.linkedin.com/in/Oso00Luffy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.behance.net/NishatRhythm" target="_blank">
+  <a href="https://www.behance.net/Oso00Luffy" target="_blank">
     <img src="https://img.shields.io/badge/Behance-Portfolio-yellow?style=for-the-badge&logo=behance" alt="Behance">
   </a>
-  <a href="https://codeforces.com/profile/NishatRhythm" target="_blank">
+  <a href="https://codeforces.com/profile/Oso00Luffy" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Competitive%20Coding-orange?style=for-the-badge&logo=codeforces" alt="Codeforces">
   </a>
   <a href="https://www.youtube.com/c/Wikitricks" target="_blank">
@@ -116,7 +116,7 @@
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishatrhythm&theme=radical" alt="GitHub Profile Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Oso00Luffy&theme=radical" alt="GitHub Profile Trophy">
   </a>
 </p>
 
@@ -126,31 +126,31 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nishatrhythm&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Oso00Luffy&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
 
   <!-- Top Languages -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishatrhythm&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oso00Luffy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
   </div>
 
   <!-- Contribution Streak -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatrhythm&theme=radical" alt="Contribution Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oso00Luffy&theme=radical" alt="Contribution Streak">
   </div>
 </div>
 
 <!-- GitHub Repositories -->
 <h2 align="center">📦 GitHub Repositories</h2>
 <p align="center">
-  <a href="https://github.com/nishatrhythm?tab=repositories" target="_blank">
+  <a href="https://github.com/Oso00Luffy?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
   </a>
 </p>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=Oso00Luffy&color=blueviolet" alt="Visitor Counter">
 </p>
 
 <!-- Footer -->
@@ -319,7 +319,7 @@
 
 <!-- Link to LinkedIn Certifications -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishatrhythm/details/certifications" target="_blank">
+  <a href="https://www.linkedin.com/in/Oso00Luffy/details/certifications" target="_blank">
     <img src="https://img.shields.io/badge/View My Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
   </a>
 </p>
